@@ -1,1 +1,2 @@
-# Tugas-Besar-Pemrograman-Prosedural
+# Tugas Besar Pemrograman Prosedural
+Program Sistem Informasi Apotek
