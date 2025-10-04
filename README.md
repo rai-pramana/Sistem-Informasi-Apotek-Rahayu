@@ -278,10 +278,7 @@ Jika Anda ingin berkontribusi pada project ini:
 
 **I Kadek Rai Pramana**
 
--   📧 Email: [Your Email]
--   🎓 NIM: 2105551094
--   🏫 Institution: [Your University]
--   💼 LinkedIn: [Your LinkedIn]
+-   📧 Email: rai.pramana46@gmail.com
 
 ---
 
